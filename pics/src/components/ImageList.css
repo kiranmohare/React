@@ -1,0 +1,7 @@
+
+.image-list img{
+	/*width: 250px;*/
+	float: left;
+  	width: 50%;
+  	padding: 5px;
+}
