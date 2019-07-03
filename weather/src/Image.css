@@ -1,0 +1,8 @@
+.image img{
+	/*width: 250px;*/
+	position: relative;
+	align-items: center;
+	top: 20px;
+  	width: 70%;
+  	height: 300px;
+}
